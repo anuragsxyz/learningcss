@@ -1,0 +1,22 @@
+body {
+  width: 90%;
+  margin: 0 auto;
+}
+
+nav {
+  height: 2em;
+  position: sticky;
+  color: black;
+  padding: 10px;
+  border-bottom: 1px solid rgb(158, 144, 144, 0.2);
+  align-content: center;
+  font-family: "Roboto", serif;
+}
+
+img {
+  padding: 1px;
+  margin: calc(10% / 7);
+  max-width: 30%;
+  height: auto;
+  object-fit: contain;
+}
